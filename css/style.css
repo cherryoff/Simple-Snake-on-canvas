@@ -1,0 +1,42 @@
+#game {
+    max-width: 160px;
+}
+
+#display {
+    width: ;
+}
+
+canvas {
+    width: 100%;
+}
+
+#up, #down {
+    width: 50%;
+    margin-left: 25%;
+    float: left;
+}
+
+#left {
+    width: 50%;
+    float: left;
+}
+
+#right {
+    width: 50%;
+    float: right;
+}
+
+button {
+    border: 1px solid gray;
+    background-color: white;
+    height: 50px;
+}
+
+button:hover {
+    border: 1px solid black;
+    background-color: #d3d3d3;
+}
+
+button:active {
+    background-color: gray;
+}
