@@ -196,7 +196,7 @@ var terrainPattern;
 
 var lastTime;
 var isGameOver = false;
-var speed = 1;
+var speed = 0.5;
 
 document.getElementById('up').addEventListener('click', function() {
     if (direction[1] != 1) { direction = [0,-1]; }
