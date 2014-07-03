@@ -1,3 +1,3 @@
 #Simple Snake on canvas
 
-Hi this repo is my experement to develop game on canvas
+Hi this is repo is my experiments for develop game on canvas
